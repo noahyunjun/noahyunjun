@@ -1,4 +1,5 @@
-## Hi there 👋
+### Career
+Joodra - frontend Engineer 25.04~
 
 <!--
 **noahyunjun/noahyunjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
